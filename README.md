@@ -35,7 +35,7 @@
   <li>
     <b>Car Rental System [Frontend] (https://github.com/Mr-Victor16/car-rental-system-react)</b><br>
     <b>Description:</b> Project of a simple car rental system created for the purpose of learning frontend development in React.js<br>
-    <b>Goal: </b> Project involves developing the frontend for an application intended for a car rental management system.
+    <b>Goal: </b> Project involves developing the frontend for an application intended for a car rental management system.<br>
     <b>Technologies:</b> React.js, MaterialUI, Axios, Redux, Node.js, Formik, Yup<br>
     <b>Status:</b> Active
   </li>
