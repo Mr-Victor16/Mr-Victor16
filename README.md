@@ -8,16 +8,18 @@
 <details><summary>:electric_plug: Technologies</summary>
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Envoy-VC/awesome-badges)
 
 ### Databases:
-[![Languages](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Envoy-VC/awesome-badges)
 
 ### Frameworks:
-[![Frameworks](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev)
+[![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/Envoy-VC/awesome-badges)
 
 ### Tools:
-[![Languages](https://skillicons.dev/icons?i=idea,vscode&theme=light)](https://skillicons.dev)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://github.com/Envoy-VC/awesome-badges)
+[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/Envoy-VC/awesome-badges)
+
 </details>
 
 <details><summary>:file_folder: My projects:</summary>
