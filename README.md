@@ -1,7 +1,7 @@
 ### Hi there 👋
-:information_desk_person: My name is Cezary. I have a degree in computer science.  
-:computer: Currently, I am learning to create REST API interfaces using Java and Spring.  
-:date: My goal is to learn C# and become a backend programmer.
+:information_desk_person: My name is Cezary and I'm a graduate in Computer Science with a specialization in Mobile Computer Systems..  
+:computer: Currently, I'm intensively learning backend technologies and working with databases. I'm working on building my own portfolio on GitHub where I showcase projects that I'm working on as part of my learning and development.
+:date: My main professional goal is to grow as a backend developer, aiming to create applications that will have a real impact on users' lives. I'm particularly interested in projects that can solve everyday problems or make people's lives easier. I want to use my technical skills to create solutions that are both functional and useful. I'm open to new challenges and collaboration on projects that will allow me to grow as a backend developer and contribute to the creation of innovative applications.
 
 <details><summary>:electric_plug: Technologies</summary>
 
@@ -23,12 +23,12 @@
   <li>
     <b>Car Rental System [Backend] (https://github.com/Mr-Victor16/car-rental-system-spring)</b><br>
     <b>Description:</b> Project of a simple car rental system created for the purpose of learning REST API interface development<br>
-    <b>Technologies:</b> Java, Spring Framework, Spring Boot, Spring Security, Spring Data JPA, Lombok, JWT, REST API, MySQL
+    <b>Technologies:</b> Java, Spring Framework, Spring Boot, Spring Security, Spring Data JPA, Lombok, JWT, REST API, MySQL, Docker, Docker Compose
   </li>
   <li>
     <b>Car Rental System [Frontend] (https://github.com/Mr-Victor16/car-rental-system-react)</b><br>
     <b>Description:</b> Project of a simple car rental system created for the purpose of learning frontend development in React.js<br>
-    <b>Technologies:</b> React.js, MaterialUI, Axios, Redux, Node.js
+    <b>Technologies:</b> React.js, MaterialUI, Axios, Redux, Node.js, Formik, Yup
   </li>
   <li>
     <b>Support Management System (https://github.com/Mr-Victor16/simple_support_management_system)</b><br>
