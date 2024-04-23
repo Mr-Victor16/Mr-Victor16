@@ -26,7 +26,7 @@
 <ol>
   <li>
     <b>Car Rental System [Backend] (https://github.com/Mr-Victor16/car-rental-system-spring)</b><br>
-    <b>Description:</b> Project of a simple car rental system created for the purpose of learning REST API interface development<br>
+    <b>Description:</b> Project of a simple car rental system created for the purpose of learning REST API development<br>
     <b>Goal: </b> Creating a user-friendly platform that allows customers to easily browse available cars, make and preview reservations, while providing administrators with the tools to effectively manage cars, reservations and customers.<br>
     <b>Technologies:</b> Java, Spring Framework, Spring Boot, Spring Security, Spring Data JPA, Lombok, JWT, REST API, MySQL, Docker<br>
     <b>Status:</b> Active
@@ -36,7 +36,7 @@
     <b>Car Rental System [Frontend] (https://github.com/Mr-Victor16/car-rental-system-react)</b><br>
     <b>Description:</b> Project of a simple car rental system created for the purpose of learning frontend development in React.js<br>
     <b>Goal: </b> Project involves developing the frontend for an application intended for a car rental management system.<br>
-    <b>Technologies:</b> React.js, MaterialUI, Axios, Redux, Node.js, Formik, Yup<br>
+    <b>Technologies:</b> React.js, MaterialUI, Axios, Redux, Node.js, Formik, Yup, Docker<br>
     <b>Status:</b> Active
   </li>
   <br>
