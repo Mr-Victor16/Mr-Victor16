@@ -39,9 +39,9 @@
   </li>
   <br>
   <li>
-    <b>Support Management System (https://github.com/Mr-Victor16/simple_support_management_system)</b><br>
+    <b>Support Management System (https://github.com/Mr-Victor16/support_management_system)</b><br>
     <b>Description:</b> Project of a simple technical support management system created for a final project in Platform Programming course at the university<br>
-    <b>Technologies:</b> Java, Spring Framework, Spring Security, Thymeleaf, Bootstrap, HTML<br>
+    <b>Technologies:</b> Java, Spring Framework, Spring Boot, Spring Security, Spring Data JPA, Lombok, JWT, REST API, MySQL<br>
     <b>Status:</b> Active (Enhancement)
   </li>
   <br>
