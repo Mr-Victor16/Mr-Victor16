@@ -1,9 +1,9 @@
 ### Hi there 👋
-:information_desk_person: My name is Cezary and I'm a graduate in Computer Science with a specialization in Mobile Computer Systems.  
+:information_desk_person: Hi, I'm Cezary! I hold a degree in Computer Science with a specialization in Mobile Computer Systems.  
 
-:computer: Currently, I'm intensively learning backend technologies and working with databases. I'm working on building my own portfolio on GitHub where I showcase projects that I'm working on as part of my learning and development.  
+:computer: I’m currently focused on learning backend technologies and working with databases. I’m also building a portfolio on GitHub to showcase projects I’m developing as part of my learning journey and skill-building.  
 
-:date: My main professional goal is to grow as a backend developer, aiming to create applications that will have a real impact on users' lives. I'm particularly interested in projects that can solve everyday problems or make people's lives easier. I want to use my technical skills to create solutions that are both functional and useful. I'm open to new challenges and collaboration on projects that will allow me to grow as a backend developer and contribute to the creation of innovative applications.
+:date: My primary professional goal is to grow as a backend developer, with a vision to create applications that make a meaningful impact on users' lives. I'm especially interested in projects that solve real-world problems or simplify daily life. My aim is to apply my technical skills to create solutions that are both functional and valuable. I’m always open to new challenges and collaborative opportunities that will help me expand my backend expertise and contribute to innovative projects.
 
 <details><summary>:electric_plug: Technologies</summary>
 
@@ -42,14 +42,12 @@
     <b>Support Management System (https://github.com/Mr-Victor16/support_management_system)</b><br>
     <b>Description:</b> Project of a simple technical support management system created for a final project in Platform Programming course at the university<br>
     <b>Technologies:</b> Java, Spring Framework, Spring Boot, Spring Security, Spring Data JPA, Lombok, JWT, REST API, MySQL<br>
-    <b>Status:</b> Active (Enhancement)
   </li>
   <br>
   <li>
     <b>Arduino Alarm System (https://github.com/Mr-Victor16/arduino-alarm-system)</b><br>
     <b>Description:</b> Project of a simple alarm system created for the purpose of a final project in Embedded Systems course at the university<br>
     <b>Technologies:</b> Arduino Uno, C, Tinkercad<br>
-    <b>Status:</b> Planned (Future Enhancement)
   </li>
 </ol>
 </details>
