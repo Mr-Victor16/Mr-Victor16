@@ -1,5 +1,5 @@
 ### Hi there 👋
-:information_desk_person: Hi, I'm Cezary! I hold a degree in Computer Science with a specialization in Mobile Computer Systems.  
+:information_desk_person: I'm Cezary! I hold a degree in Computer Science with a specialization in Mobile Computer Systems.  
 
 :computer: I’m currently focused on learning backend technologies and working with databases. I’m also building a portfolio on GitHub to showcase projects I’m developing as part of my learning journey and skill-building.  
 
@@ -40,8 +40,9 @@
   <br>
   <li>
     <b>Support Management System (https://github.com/Mr-Victor16/support_management_system)</b><br>
-    <b>Description:</b> Project of a simple technical support management system created for a final project in Platform Programming course at the university<br>
-    <b>Technologies:</b> Java, Spring Framework, Spring Boot, Spring Security, Spring Data JPA, Lombok, JWT, REST API, MySQL<br>
+    <b>Description:</b> Support Management System is an application designed for managing technical support tickets, offering functionalities for users, operators, and administrators. The system facilitates efficient creation, tracking, and resolution of tickets, as well as configuration of key settings such as priorities and categories.<br>
+    <b>Goal: </b> Develop a simple system for managing technical support, enhancing communication between users and operators while enabling administrators to efficiently manage system settings and user accounts.<br>
+    <b>Technologies:</b> Java, Spring Framework, Spring Boot, Spring Security, Spring Data JPA, JUnit, Mockito, Lombok, JWT, REST API, MySQL, Docker, Test Containers, REST Assured<br>
   </li>
   <br>
   <li>
